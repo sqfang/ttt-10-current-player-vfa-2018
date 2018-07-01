@@ -8,4 +8,6 @@ end
 def current_player (board)
   if (turn_count(board) % 2).even?
     
+  else
+  end
 end
